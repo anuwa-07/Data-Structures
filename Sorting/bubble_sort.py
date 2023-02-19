@@ -36,4 +36,3 @@ Bubble Sort can covert as Adaptive, By default it is not Adaptive,
         - If list sort take less time when we try to sort already sorted list, That sorting algorithm is Adaptive.
 
 '''
-
